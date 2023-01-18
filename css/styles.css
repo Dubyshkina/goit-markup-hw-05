@@ -176,9 +176,12 @@ img{
   background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
+  max-width: 1600px;
+  margin: 0 auto;
   
   padding-top:200px;
   padding-bottom:200px;
+  
 
   /* outline: 2px solid black; */
 }
@@ -487,7 +490,7 @@ padding-bottom:27px;
   color: var(--accent-color);
 }
 .follow{
-  margin-left:73px;
+  margin-left:70px;
 }
 .follow .title {
 font-style: normal;
